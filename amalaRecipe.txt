@@ -2,4 +2,8 @@ Award-winning Amala Recipe
 
 1. First, add water
 2. Next, add amala
+<<<<<<< HEAD
+=======
+
+>>>>>>> code_review
 4. Ensure you add the condiments
