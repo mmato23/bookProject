@@ -2,8 +2,5 @@ Award-winning Amala Recipe
 
 1. First, add water
 2. Next, add amala
-<<<<<<< HEAD
-=======
-
->>>>>>> code_review
+3. Boil for 7.32 minutes exactly
 4. Ensure you add the condiments
